@@ -1,0 +1,11 @@
+/**
+ * Created by PC on 2/25/2017.
+ */
+public class HelloWorld {
+
+    //psvm + Tab
+    public static void main(String[] args)  {
+        //sout + Tab
+        System.out.print("Hello, World!");
+    }
+}
